@@ -1,0 +1,11 @@
+rucha ,66.66666666666666,B,Pass
+aarav,66.66666666666666,B,Pass
+ritika,89.0,A,Pass
+john,96.0,A+,Pass
+william,90.0,A+,Pass
+akshata,51.11111111111111,C,Pass
+naksh,70.0,B,Pass
+naira,61.33333333333333,B,Pass
+daksh,93.33333333333333,A+,Pass
+diana,91.0,A+,Pass
+rocky,88.0,A,Pass

@@ -1,0 +1,7 @@
+xyz,987654321,Deluxe,2,5000
+abc,123456789,Suite,5,25000
+pqr,9786543213,Standard,4,4000
+john welsky,789654321,Deluxe,3,7500
+vicky route,897634521,Suite,2,10000
+mno,342516789,Standard,6,6000
+santy,456378291,Deluxe,5,12500
